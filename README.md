@@ -38,3 +38,5 @@ The reliability of the SDMs was improved by applying spatial and environmental s
 The data points prepared in this way were trained using a Generalised Additive Model (GAM) and modelled for the future climate scenarios RCP 4.5, 8.5.1 and 8.5.2 for the periods 2036-2065 and 2071-2100 (Lehner et al., 2023).
 </p>
 <br>
+<br>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.

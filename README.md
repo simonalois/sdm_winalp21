@@ -1,5 +1,6 @@
 ## Results of the INTERREG-Project: WINALP21
-
+<kbd><img src="https://github.com/simonalois/sdm_winalp21/blob/main/concept/logo_interreg.png" title="Conceptual Diagram" /></kbd>
+<kbd><img src="https://github.com/simonalois/sdm_winalp21/blob/main/concept/logo_winalp21.png" title="Conceptual Diagram" /></kbd>
 authors:   
 Alois SIMON<sup>1,2*</sup>, Ellen van GALEN<sup>1</sup>, Lisa BISCHOFER<sup>3</sup>
 

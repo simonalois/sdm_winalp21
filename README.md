@@ -1,8 +1,12 @@
 ## Results of the INTERREG-Project: WINALP21
-<kbd><img src="https://github.com/simonalois/sdm_winalp21/blob/main/project_information/concept/logo_interreg.png" title="Conceptual Diagram" /></kbd>
-<kbd><img src="https://github.com/simonalois/sdm_winalp21/blob/main/project_information/logo_winalp21.png" title="Conceptual Diagram" /></kbd>
+<kbd><img src="https://github.com/simonalois/sdm_winalp21/blob/main/project_information/logo_interreg.png" title="INTERREG BY-AT 2021-2027" /></kbd>
+<kbd><img src="https://github.com/simonalois/sdm_winalp21/blob/main/project_information/logo_winalp21.png" title="WINALP21" /></kbd>
+
+<br>
+<br>
+
 authors:   
-Alois SIMON<sup>1,2*</sup>, Ellen van GALEN<sup>1</sup>, Lisa BISCHOFER<sup>3</sup>
+**Alois SIMON**<sup>1,2*</sup>, **Ellen van GALEN**<sup>1</sup>, **Lisa BISCHOFER**<sup>3</sup>
 
 1 Department of Forest Planning, Forest Administration Tyrol, Office of the Tyrolean Government, Innsbruck, Austria  
 2 Institute of Forest Ecology, Department of Forest and Soil Sciences, University of Natural Resources and Life Sciences Vienna, 
@@ -23,7 +27,6 @@ Highlights:
 - The climatic-driven distributions of 29 tree species are modeled for the Province Tyrol, Austria. 
 - The predictions are made for three climate szenarios (low, intermediate and severe) and two time steps (2036-2065, 2071-2100).
 - Regional and continental occurrence data and predictor variables are integrated.
-
 
 <br>
 <br>
